@@ -4,7 +4,8 @@
 
 
 ### Home page
-![1](https://github.com/Rishanmv/THE-OUTNET-E-COMMERCE-WEBSITE/assets/167636829/c2777e8f-8f91-472c-90d8-aa04aef33399)
+![1](https://github.com/Rishanmv/THE-OUTNET-W-COMMERCE-WEBSITE/assets/167636829/05ccee7a-525c-462b-aa21-cd41e839209f)
+
 
 
 
