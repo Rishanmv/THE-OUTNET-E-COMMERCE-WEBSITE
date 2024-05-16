@@ -10,18 +10,19 @@
 
 
 ### Content Description page
-![2](https://github.com/Rishanmv/THE-OUTNET-E-COMMERCE-WEBSITE/assets/167636829/5b129c5c-4749-40fa-a738-e73b287c6723)
+![2](https://github.com/Rishanmv/THE-OUTNET-W-COMMERCE-WEBSITE/assets/167636829/491c1e0b-bc92-44e2-8559-6763cad9de56)
+
 
 
 
 ### Ordered List page
-![3](https://github.com/Rishanmv/THE-OUTNET-E-COMMERCE-WEBSITE/assets/167636829/93f7853f-77c7-4c00-86cc-fe7f23e3b705)
+![3](https://github.com/Rishanmv/THE-OUTNET-W-COMMERCE-WEBSITE/assets/167636829/e576e55a-4580-4428-803d-c40490427121)
 
 
 
 
 ### Order confirm page
-![4](https://github.com/Rishanmv/THE-OUTNET-E-COMMERCE-WEBSITE/assets/167636829/c1130356-207c-4cb7-af58-78fc088c56b2)
+![4](https://github.com/Rishanmv/THE-OUTNET-W-COMMERCE-WEBSITE/assets/167636829/1e0bbc50-07bb-4798-a0ae-662e939af67a)
 
 
  
